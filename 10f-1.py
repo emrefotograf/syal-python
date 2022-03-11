@@ -11,4 +11,4 @@ elif ort>84 and ort<=100:
     print("Pekiyi")
 else:
     print("Yanlış not girişi!")
-
+print("Bitti")
